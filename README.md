@@ -1,4 +1,6 @@
-WeakAura-World-of-Warcraft-WrongEquipmentSet
+# WeakAura-World-of-Warcraft-WrongEquipmentSet
+
+Works with Battle For Azeroth 8.0.1
 
 A custom lua file for the addon WeakAuras2 of the game World of Warcraft
 It returns text whenever the current equipment set's name does not include the name of the current spec
