@@ -1,0 +1,1 @@
+-WeakAura-World-of-Warcraft-WrongEquipmentSet
